@@ -13,6 +13,6 @@ The executable JAR is in store folder: just execute it with java
 
 Feel free to donate via paypal to aiolfi.matt@gmail.com.
 
-Use also this link:
+Use this link:
 
-https://aiolfimatt.wixsite.com/website
+https://www.paypal.com/donate/?token=VO7VbxDMK4CwbjJjGVkz0_dZtUzdbC2J0CeAzPuA4HvzRBumc-QWOFjCjGIgf-7pOrFyTG&country.x=IT&locale.x=
